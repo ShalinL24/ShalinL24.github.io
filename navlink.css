@@ -1,0 +1,30 @@
+div.navbar{
+  margin: 
+  width: 100%;
+  height: auto;
+  background-color:black
+  text
+}
+
+ul.navlinks{
+  padding: 10px
+  background-color: inherit;
+  text-align: center;
+  font-size: 12px; 
+  font-family: sans-serif;
+  
+}
+ul.navlinks > li {
+  font-size: 12px; 
+  font-family: sans-serif;
+  display: inline-block;
+  list-style: none:
+
+}
+
+a{
+  color: white
+  text-decoration: none;
+
+  
+}
